@@ -1,0 +1,20 @@
+T123
+EconomyClass [getRowNum()=6, getColumnNum()=1, getSeatNum()=A6, getPassenger()=Passenger [name=Carmel Zeidan, passport=123454, seatPref=0]]
+EconomyClass [getRowNum()=7, getColumnNum()=3, getSeatNum()=C7, getPassenger()=Passenger [name=Taleena Doqa, passport=345464, seatPref=1]]
+EconomyClass [getRowNum()=8, getColumnNum()=3, getSeatNum()=C8, getPassenger()=Passenger [name=Maya Khair, passport=467675, seatPref=1]]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T456
+EconomyClass [getRowNum()=9, getColumnNum()=6, getSeatNum()=F9, getPassenger()=Passenger [name=Saliba Musleh, passport=454325, seatPref=0]]
+EconomyClass [getRowNum()=20, getColumnNum()=4, getSeatNum()=D20, getPassenger()=Passenger [name=Hala Abd Alhaleem, passport=244242, seatPref=1]]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+T789
+FirstClass [getRowNum()=1, getColumnNum()=4, getSeatNum()=F1, getPassenger()=Passenger [name=Mamoun Nawahdah, passport=123456, seatPref=0]]
+EconomyClass [getRowNum()=30, getColumnNum()=2, getSeatNum()=B30, getPassenger()=Passenger [name=Ilana Hattab, passport=545465, seatPref=2]]
+EconomyClass [getRowNum()=31, getColumnNum()=6, getSeatNum()=F31, getPassenger()=Passenger [name=Malak Ibrahim, passport=467344, seatPref=0]]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
